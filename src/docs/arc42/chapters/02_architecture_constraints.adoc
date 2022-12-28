@@ -9,7 +9,7 @@ ifndef::imagesdir[:imagesdir: ../../images]
 :toc:
 
 [[section-architecture-constraints]]
-== Architecture Constraints
+== Architecture Constraints from MAIK
 
 
 [role="arc42help"]
